@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(194, 201, 220);
+  font-family: "Lato", sans-serif;
+}
+
+.content {
+  background-color: #ffffff;
+  width: 300px;
+  margin: 80px auto;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.content img {
+  width: 100%;
+  margin-top: 0px;
+  border-radius: 10px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.first {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  color: #333333;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
